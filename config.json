@@ -1,0 +1,9 @@
+{
+    "traceur": {
+        "experimental": true,
+        "asyncFunctions": true,
+        "blockBinding": true,
+        "symbols": true,
+        "modules": "commonjs"
+    }
+}
